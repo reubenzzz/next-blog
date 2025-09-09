@@ -18,7 +18,7 @@ export const featuredPosts: BlogPost[] = [
     author: "Jennifer Taylor",
     readTime: "5 min read",
     category: "Business",
-    image: "/src/assets/blog-ui-design.jpg",
+    image: "@/assets/blog-ui-design.jpg",
     featured: true
   },
   {
