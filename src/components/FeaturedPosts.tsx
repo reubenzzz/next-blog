@@ -1,5 +1,7 @@
 import { BlogPost } from "@/data/mockData";
-import post.image from "@/assets/hero-image.jpg";
+import post.image from "@/assets/blog-collaboration.jpg";
+import post.image from "@/assets/blog-emotional-ux.jpg";
+import post.image from "@/assets/blog-ui-design.jpg";
 
 interface FeaturedPostsProps {
   posts: BlogPost[];
